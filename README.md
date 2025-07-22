@@ -3,7 +3,7 @@
 A complete end-to-end Data Analyst + Machine Learning project to analyze and predict product return behavior in an e-commerce setting using Python, Streamlit, and scikit-learn.
 
 
-[![Streamlit App](https://appuctreturnanalysis-dkvbwjlixmomazkgfbaivg.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Live-App-green?logo=streamlit)](https://appuctreturnanalysis-dkvbwjlixmomazkgfbaivg.streamlit.app/)
 
 ---
 
