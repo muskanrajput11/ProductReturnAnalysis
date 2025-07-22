@@ -76,20 +76,3 @@ ProductReturnAnalysis/
 
 ---
 
-##  Setup Instructions
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/yourusername/ProductReturnAnalysis.git
-
-Sample Input for Prediction
-Field	              Example
-Product Category	  Electronics
-Product Price	      899.0
-Order Quantity     	   1
-User Age	          28
-Gender	              Female
-Return Reason	      Damaged
-Payment Method	      Credit Card
-Shipping Method	      Express
-Discount Applied	  10%
