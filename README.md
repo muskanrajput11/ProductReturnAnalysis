@@ -1,14 +1,14 @@
-# 🛍️ Product Return Pattern Analysis for E-Commerce
+#  Product Return Pattern Analysis for E-Commerce
 
 A complete end-to-end Data Analyst + Machine Learning project to analyze and predict product return behavior in an e-commerce setting using Python, Streamlit, and scikit-learn.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing historical product return data to understand key return patterns and predict the probability of a product being returned using machine learning.
 
-### 🔍 Problem Statement
+### Problem Statement
 In the e-commerce industry, product returns directly impact customer satisfaction, logistics costs, and seller reputation. By understanding return patterns, we can:
 - Reduce return rates
 - Identify high-risk categories or users
@@ -16,7 +16,7 @@ In the e-commerce industry, product returns directly impact customer satisfactio
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 An interactive web dashboard built using **Streamlit + Plotly** that allows:
 - Filtering return trends by **category & date**
@@ -26,7 +26,7 @@ An interactive web dashboard built using **Streamlit + Plotly** that allows:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Layer | Tools |
 |-------|-------|
@@ -40,7 +40,7 @@ An interactive web dashboard built using **Streamlit + Plotly** that allows:
 
 ---
 
-## 🗂️ Folder Structure
+##  Folder Structure
 
 ProductReturnAnalysis/
 │
@@ -53,7 +53,7 @@ ProductReturnAnalysis/
 
 ---
 
-## ✅ Features Implemented
+##  Features Implemented
 
 - 📅 **Date & category filtering**
 - 📈 **Monthly return trend charts**
@@ -64,7 +64,7 @@ ProductReturnAnalysis/
 
 ---
 
-## 🤖 Machine Learning Details
+##  Machine Learning Details
 
 - Model: `Logistic Regression`
 - Input features:
@@ -76,7 +76,7 @@ ProductReturnAnalysis/
 
 ---
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repo**  
    ```bash
