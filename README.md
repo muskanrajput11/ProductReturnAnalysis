@@ -81,7 +81,7 @@ ProductReturnAnalysis/
 
 ##  Live Deployment
 
->  **Live App**: [Click here to view the dashboard](https://productreturnanalysis-muskanrajput11.streamlit.app)  
+>  **Live App**: [Click here to view the dashboard](https://appuctreturnanalysis-dkvbwjlixmomazkgfbaivg.streamlit.app/)  
 >  Hosted via **Streamlit Cloud**
 
 
