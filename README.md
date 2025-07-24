@@ -92,3 +92,8 @@ pip install -r requirements.txt
 # Launch app
 streamlit run dashboard/app.py
 
+
+ Live Deployment
+Live App: Click here to view the dashboard
+ Hosted via Streamlit Cloud
+
