@@ -78,3 +78,21 @@ ProductReturnAnalysis/
 - Evaluation: `Train/Test Split` + `Classification Report`
 
 ---
+
+## Run Locally
+# Clone repo
+git clone https://github.com/muskanrajput11/ProductReturnAnalysis.git
+cd ProductReturnAnalysis
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch app
+streamlit run dashboard/app.py
+
+
+##  Live Deployment
+
+>  **Live App**: [Click here to view the dashboard](https://productreturnanalysis-yourusername.streamlit.app)  
+>  Hosted via **Streamlit Cloud**  
+
