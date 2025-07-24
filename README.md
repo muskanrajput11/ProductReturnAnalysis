@@ -79,3 +79,16 @@ ProductReturnAnalysis/
 
 ---
 
+## ▶ Run Locally
+
+```bash
+# Clone repo
+git clone https://github.com/yourusername/ProductReturnAnalysis.git
+cd ProductReturnAnalysis
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch app
+streamlit run dashboard/app.py
+
