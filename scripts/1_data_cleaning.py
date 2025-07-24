@@ -3,6 +3,7 @@ import pandas as pd
 # Step 1: Raw data load karo
 df = pd.read_csv("data/ecommerce_returns_synthetic_data.csv")
 
+
 # Step 2: Columns ko lowercase aur underscores mein convert karo
 df.columns = df.columns.str.lower().str.strip().str.replace(' ', '_')
 

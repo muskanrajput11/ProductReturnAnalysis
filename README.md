@@ -11,7 +11,7 @@ A complete end-to-end Data Analyst + Machine Learning project to analyze and pre
 
 This project focuses on analyzing historical product return data to understand key return patterns and predict the probability of a product being returned using machine learning.
 
-### Problem Statement
+### 🔍 Problem Statement
 In the e-commerce industry, product returns directly impact customer satisfaction, logistics costs, and seller reputation. By understanding return patterns, we can:
 - Reduce return rates
 - Identify high-risk categories or users
@@ -58,12 +58,12 @@ ProductReturnAnalysis/
 
 ##  Features Implemented
 
- Date & category filtering,
- Monthly return trend charts,
- Return rate table by category,
- ML-based return prediction,
- Prediction history tracking,
- Downloadable CSV reports
+- 📅 **Date & category filtering**
+- 📈 **Monthly return trend charts**
+- 📊 **Return rate table by category**
+- 🔮 **ML-based return prediction**
+- 💾 **Prediction history tracking**
+- 📥 **Downloadable CSV reports**
 
 ---
 
@@ -79,27 +79,20 @@ ProductReturnAnalysis/
 
 ---
 
-##  Live Deployment
- **Live App**: [Click here to open the dashboard](https://appuctreturnanalysis-dkvbwjlixmomazkgfbaivg.streamlit.app/)  
-Hosted via **Streamlit Cloud**
+## 📦 Setup Instructions
 
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/yourusername/ProductReturnAnalysis.git
 
-##  Run Locally
-
-```bash
-# Clone repo
-git clone https://github.com/muskanrajput11/ProductReturnAnalysis.git
-cd ProductReturnAnalysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch app
-streamlit run dashboard/app.py
-
----
-
-
-
-
-
+Sample Input for Prediction
+Field	              Example
+Product Category	  Electronics
+Product Price	      899.0
+Order Quantity     	   1
+User Age	          28
+Gender	              Female
+Return Reason	      Damaged
+Payment Method	      Credit Card
+Shipping Method	      Express
+Discount Applied	  10%

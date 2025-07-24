@@ -25,19 +25,19 @@ df = df.dropna(subset=["is_returned"])
 
 # Check again after dropping
 print("After dropna:")
-print(df["is_returned"].value_counts())  # ✅ Debug
+print(df["is_returned"].value_counts())  
 
 # Define features and target
 features = [
     "product_category", "return_reason", "product_price", "order_quantity",
     "user_age", "user_gender", "payment_method", "shipping_method", "discount_applied"
 ]
-X = df[features].copy()  # ✅ Ensure no chained assignment issues
+X = df[features].copy()  #  Ensure no chained assignment issues
 y = df["is_returned"]
 
 # Check class balance
 if len(y.unique()) < 2:
-    print("❌ Not enough classes in target variable.")
+    print(" Not enough classes in target variable.")
     print("Class distribution:\n", y.value_counts())
     exit()
 
@@ -73,7 +73,7 @@ joblib.dump(scaler, "models/feature_scaler.pkl")
 for col, encoder in encoders.items():
     joblib.dump(encoder, f"models/{col}_encoder.pkl")
 
-print("✅ Model and encoders saved successfully.")
+print(" Model and encoders saved successfully.")
 
 
 
