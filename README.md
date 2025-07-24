@@ -79,6 +79,11 @@ ProductReturnAnalysis/
 
 ---
 
+##  Live Deployment
+ **Live App**: [Click here to open the dashboard](https://appuctreturnanalysis-dkvbwjlixmomazkgfbaivg.streamlit.app/)  
+Hosted via **Streamlit Cloud**
+
+
 ##  Run Locally
 
 ```bash
@@ -92,8 +97,9 @@ pip install -r requirements.txt
 # Launch app
 streamlit run dashboard/app.py
 
+---
 
- Live Deployment
- **Live App**: [Click here to open the dashboard](https://appuctreturnanalysis-dkvbwjlixmomazkgfbaivg.streamlit.app/)
- Hosted via Streamlit Cloud
+
+
+
 
