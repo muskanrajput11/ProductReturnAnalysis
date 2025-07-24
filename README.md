@@ -80,14 +80,14 @@ ProductReturnAnalysis/
 ---
 
 ## Run Locally
-# Clone repo
+# 1. Clone the repo
 git clone https://github.com/muskanrajput11/ProductReturnAnalysis.git
 cd ProductReturnAnalysis
 
-# Install dependencies
+# 2. Install dependencies
 pip install -r requirements.txt
 
-# Launch app
+# 3. Launch the app
 streamlit run dashboard/app.py
 
 
