@@ -89,7 +89,7 @@ ProductReturnAnalysis/
 
 ```bash
 # Clone repo
-git clone https://github.com/muskanrajut11/ProductReturnAnalysis.git
+git clone https://github.com/muskanrajput11/ProductReturnAnalysis.git
 cd ProductReturnAnalysis
 
 # Install dependencies
