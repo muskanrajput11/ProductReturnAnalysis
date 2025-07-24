@@ -58,12 +58,12 @@ ProductReturnAnalysis/
 
 ##  Features Implemented
 
- **Date & category filtering**
- **Monthly return trend charts**
- **Return rate table by category**
- **ML-based return prediction**
- **Prediction history tracking**
- **Downloadable CSV reports**
+ Date & category filtering
+ Monthly return trend charts
+ Return rate table by category
+ ML-based return prediction
+ Prediction history tracking
+ Downloadable CSV reports
 
 ---
 
