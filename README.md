@@ -94,6 +94,6 @@ streamlit run dashboard/app.py
 
 
  Live Deployment
-Live App: https://appuctreturnanalysis-dkvbwjlixmomazkgfbaivg.streamlit.app/
+ **Live App**: [Click here to open the dashboard](https://appuctreturnanalysis-dkvbwjlixmomazkgfbaivg.streamlit.app/)
  Hosted via Streamlit Cloud
 
